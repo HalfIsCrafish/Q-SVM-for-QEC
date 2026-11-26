@@ -1,0 +1,8 @@
+stim>=1.14
+pymatching>=2.2
+qiskit>=1.3
+scikit-learn>=1.5
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.9
+ipykernel
